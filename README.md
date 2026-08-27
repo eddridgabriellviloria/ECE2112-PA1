@@ -1,6 +1,6 @@
 # ECE 2112 PROGRAMMING ASSIGNMENT 1 - INTRODUCTION TO PYTHON PROGRAMMING
 ## Programmed By: Eddrid Gabriell Viloria, 2ECE-C
-This repository
+This is the repository for the first programming assignment for ECE 2112, Advanced Computer Programming and Algorithms. What you will see here is the .ipynb file of the assignment itself, alongside this README file. Please ignore the `Untitled.ipynb`, as it is merely a test file to make sure both Git and GitHub work as intended.  
 **Objective:** The students should be able to solve the following programming problems using basic Python functions, operators, and string operations, and manipulate strings via indexing, slicing, and other built-in string methods. The students are also tasked to be able to learn and apply sequence unpacking to manipulate the elements of a list. Lastly, we should be able to construct simple Python functions that are able to return a specified result.
 
 ## Programming Problem A - Word Rotation Problem
