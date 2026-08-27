@@ -78,9 +78,9 @@ swap_bookends(["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4"])
     - Input feature replaced with all the examples from the PDF file added into the program.
 
 **Aug. 27, 2026**
-* Version 1.1  
-   - `print()` used as a way to execute and display the examples in using the developed functions, further reducing the number of cells present in the program.
-   -  Additional examples added in each programming problem  
+* Version 1.1
+    - `print()` used as a way to execute and display the examples in using the developed functions, further reducing the number of cells present in the program.
+    -  Additional examples added in each programming problem  
 * "Reverted" Version 1.1 - Result of technical difficulties in git push. Reverted back to the original Version 1.1 moments later.  
-* Version 1.2  
-        - Additional examples from the previous version were transferred to separate cells. This is in order to demonstrate that functions are fully operational even without the `print()` command.  
+* Version 1.2
+    - Additional examples from the previous version were transferred to separate cells. This is in order to demonstrate that functions are fully operational even without the `print()` command.  
