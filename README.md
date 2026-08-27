@@ -66,14 +66,17 @@ swap_bookends(["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4"])
 * Version 0.2  
     - `rotate_word(text)` function fully operational.  
 * Version 0.3  
-    - `make_username(first_name, last_name)` function fully operational.  
+    - `make_username(first_name, last_name)` function fully operational.
+ 
 **Aug. 24, 2026**  
 * Version 0.4  
-    - `swap_bookends(item)` function fully operational.  
+    - `swap_bookends(item)` function fully operational.
+ 
 **Aug. 25, 2026**  
 * Version 1.0  
     - Program fully released into GitHub.  
-    - Input feature replaced with all the examples from the PDF file added into the program.  
+    - Input feature replaced with all the examples from the PDF file added into the program.
+
 **Aug. 27, 2026**
 * Version 1.1  
    - `print()` used as a way to execute and display the examples in using the developed functions, further reducing the number of cells present in the program.
